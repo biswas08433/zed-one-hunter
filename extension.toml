@@ -1,0 +1,7 @@
+id = "one-hunter"
+name = "One Hunter Theme"
+version = "0.0.1"
+schema_version = 1
+authors = ["Sourajyoti Biswas"]
+description = "One Hunter theme ported from VS Code."
+repository = "https://github.com/biswas08433/zed-one-hunter"
